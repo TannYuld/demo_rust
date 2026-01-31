@@ -6,3 +6,5 @@ authors = ["Yolo", "Baba"]
 description = "Kakabok"
 
 [dependencies]
+
+[package.metadata.rubin]
